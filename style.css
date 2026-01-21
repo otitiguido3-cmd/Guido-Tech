@@ -217,13 +217,10 @@ footer div ul li a{
 }
 
 .comment {
-    display: inline-block;
-    transform: rotate(-25deg);
+    font-style: italic;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
     color: #fff;
-    padding-bottom: 5px;
-    padding-left: 800px;
-    padding-top: 0px;
-    padding-right: 5px;
 }
 
 
@@ -295,4 +292,25 @@ header nav ul li a {
 
 }
 
+}
+
+.copyright {
+    color: #fff;
+}
+
+
+.comment {
+    font-style: italic;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+
+div .about p {
+    color: #fff;
+}
+
+h5 {
+    font-size: 30px;
 }
