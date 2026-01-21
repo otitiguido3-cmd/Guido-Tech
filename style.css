@@ -119,13 +119,23 @@ header nav ul li a:hover  {
 
  /*Styling the backgr
  ound image*/
- .banner-content {
+.banner-content {
     width: 100%;
-    height: calc(100vh - 100px);background-image: url(images/G-max\ Web.jpg);
+    height: calc(100vh - 100px);background-image: url(images/Banner.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;   /*This makes the website covers the whole page of the website.*/
     display: table;
+
+
+.banner-content1{
+    width: 100%;
+    height: calc(100vh - 100px);background-image: url(images/banner_services.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;   /*This makes the website covers the whole page of the website.*/
+    display: table;
+}
    
  }
 
